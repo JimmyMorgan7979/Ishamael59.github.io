@@ -3,3 +3,13 @@
   overflow:hidden;
   height:auto;
 }
+.keySelection {
+  background-color: #b9b4f7;
+}
+.keyNumber {
+  background-color: #f7efb4;
+}
+.changeKeyButton {
+  background-color: #b9b4f7 !important;
+  border-color: #b9b4f7 !important;
+}
